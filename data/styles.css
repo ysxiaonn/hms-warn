@@ -86,6 +86,8 @@
 }
 .line {
 }
+.arrow {
+}
 .heading_1 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -132,6 +134,8 @@
   text-align:left;
 }
 .table_cell {
+}
+._连接符 {
 }
 ._默认样式 {
 }
